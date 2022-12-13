@@ -1,4 +1,4 @@
-<p align="center"><img src="https://s3.amazonaws.com/ir_public/projects/ignite/ignite-maverick-home-screen.png" alt="logo" width="414px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/1479215/206780298-2b98221d-9c57-4cd3-866a-cf85ec1ddd9e.jpg" alt="Ignite README Splash Image" /></p>
 
 # Ignite - the battle-tested React Native boilerplate
 
@@ -91,6 +91,8 @@ Note:
 ## Reporting Bugs / Getting Help
 
 If you run into problems, first search the issues and discussions in this repository. If you don't find anything, you can come talk to our friendly and active developers in the Infinite Red Community Slack ([community.infinite.red](http://community.infinite.red)).
+
+If you still need help after reaching out to the proper channels, feel free to open a new GitHub issue via `npx ignite-cli issue "Unable to Ignite new app"` (as an example). This will help start writing your issue with the correct diagnostic information included.
 
 ## No time to learn React Native? Hire Infinite Red for your next project
 
